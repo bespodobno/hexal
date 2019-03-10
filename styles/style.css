@@ -271,8 +271,9 @@ color: #2eb398;
 padding:2px;
 margin-left: -6px; 
 }
+
 .icons:hover{
-filter:grayscale(100%);
+    background:#dba5cf;
 /*filter:invert(1);*/
 }
 .twitter,.dribbble{
